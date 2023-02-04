@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100vh;
+    height: 100vh;
+    background-color: green;
+}
+
+button {
+    height: 90px;
+    width: 550px;
+    font-size: 17px;
+    border-radius: 9px;
+    background-color: turquoise;
+    color: white;
+}
